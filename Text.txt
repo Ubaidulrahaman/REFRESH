@@ -1,0 +1,1 @@
+Git Distributed control system is mainly used by Git hub platform
